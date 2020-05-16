@@ -10,12 +10,12 @@ public class Config {
     /**
      *  Width of the field, in pixels
      */
-    public static final double FIELD_WIDTH = 648;
+    public static final double FIELD_WIDTH = 400;
 
     /**
      * Whether to use "Virtual Gamepad" (true -> Virtual gamepad, false -> Real gamepad)
      */
-    public static final boolean USE_VIRTUAL_GAMEPAD = false;
+    public static final boolean USE_VIRTUAL_GAMEPAD = true;
 
     /**
      * The image object for the field.
