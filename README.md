@@ -148,3 +148,12 @@ CHANGES 3/23/2019
     5. Added distance sensors to all robot configurations to measure distance from walls.
     6. Replaced LineFollow example opMode with MechBotAutoDemo, a line follower that actually works.
 
+
+Create your own github accounts on github.com
+  - Go to github.conm and signup
+  - for username, use your firstname-broncobot. for example, manav's username will be manav-broncobot
+  - choose your password and enter your email. Once you signup you will get a verification email to verufy your account.
+  - Once you verified, check to make sure you can login into github.com with your username/password.
+  - If that's successful, your github account is active. Send me that username in classroom so that I can allow you in our git repository - where we keep our code.
+  
+
